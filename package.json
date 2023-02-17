@@ -2,7 +2,7 @@
   "name": "qrgen",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20230115.0",
+    "@cloudflare/workers-types": "^4.20230215.0",
     "@types/qrcode": "^1.5.0",
     "typescript": "^4.9.5",
     "wrangler": "2.9.1"
